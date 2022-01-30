@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moorekate
 - 👀 I’m interested in environmental robotics and computer engineering
-- 🌱 I’m currently learning CS 2500/2501 at Northeastern University
+- 🌱 I’m currently learning at UMass Lowell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
