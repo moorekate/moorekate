@@ -1,2 +1,2 @@
-> 👋 Hi, I’m @moorekate
+> 👋 Hi, I’m Kate!
 
