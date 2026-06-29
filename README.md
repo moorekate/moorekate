@@ -5,8 +5,6 @@
 >📫 How to reach me:
 >
 >email: katealicemoore@gmail.com
->
 >LinkedIn: https://www.linkedin.com/in/kate-moore-803/
->
 >website: pending
 
