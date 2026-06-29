@@ -1,7 +1,8 @@
 ### About Me
 
-👋 Hi, I’m Kate! 
-I'm an analytics engineer (quasi-data engineer), and I code primarily in Python and SQL.
+👋 Hi, I’m Kate! <br>
+
+I'm an analytics engineer (quasi-data engineer), and I code primarily in Python and SQL. <br>
 
 #### 📫 How to reach me:
 
