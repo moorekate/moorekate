@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hi, I’m Kate! and I'm an analytics engineer (quasi-data engineer). I code primarily in Python and SQL.
+👋 Hi, I’m Kate! I'm an analytics engineer (quasi-data engineer), and I code primarily in Python and SQL.
 
 #### 📫 How to reach me:
 
