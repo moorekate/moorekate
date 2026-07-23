@@ -10,4 +10,4 @@ Preferred work location(s): Boston, Seattle, San Francisco Bay Area
 
 - email: katealicemoore@gmail.com
 - linkedin: [kate-moore-803](https://www.linkedin.com/in/kate-moore-803/)
-- website: [moorekate.githu.bio] (https://moorekate.github.io)
+- website: [moorekate.github.io] (moorekate.github.io)
