@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Kate! 
 
-I'm an analytics engineer (quasi-data engineer) and I code primarily in Python and SQL. </br>
+I code primarily in Python and SQL. </br>
 </br>
 Preferred work location(s): Boston, Seattle, San Francisco Bay Area
 
